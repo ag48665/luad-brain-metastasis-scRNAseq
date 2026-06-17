@@ -92,22 +92,25 @@ luad-brain-metastasis-scRNAseq/
 
 ## Main Figures
 
-| Figure | Description |
-|----------|-------------|
-| Figure 1 | Cellular composition across LUAD progression |
-| Figure 2 | T-cell state remodeling |
-| Figure 3 | Macrophage remodeling |
-| Figure 4 | Exhaustion marker heatmap |
-| Figure 5 | Exhaustion marker expression |
-| Figure 6 | Exhaustion markers during progression |
-| Figure 7 | Exhaustion score across T-cell states |
-| Figure 8 | Progressive immune exhaustion |
-| Figure 9 | Exhaustion marker dynamics |
-| Figure 10 | T-cell states across anatomical sites |
-| Figure 11 | Integrated immune remodeling |
-| Figure 12 | Independent validation (GSE99254) |
-| Figure 13 | TOX survival analysis |
+## Figures
 
+### GSE131907
+
+- Figure 1 – Cellular composition during LUAD progression
+- Figure 2 – T-cell escape and immune remodeling
+- Figure 3 – Macrophage remodeling
+- Figure 4 – Exhaustion marker heatmap
+- Figure 5 – Exhaustion marker expression
+- Figure 6A – Exhaustion markers
+- Figure 6B – Progressive exhaustion
+- Figure 7 – Exhaustion score analysis
+- Figure 8 – Exhaustion progression
+- Figure 9 – Exhaustion marker dynamics
+- Figure 10 – Integrated immune remodeling
+
+### GSE99254 Validation
+
+- Figure 11 – Validation of exhaustion-associated markers in an independent NSCLC cohort
 ---
 
 ## Technologies
