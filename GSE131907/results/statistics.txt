@@ -1,0 +1,4 @@
+        comparison       p_value
+0   nLung_vs_tLung  4.152066e-03
+1  tLung_vs_mBrain  1.231368e-12
+2  nLung_vs_mBrain  1.150494e-10

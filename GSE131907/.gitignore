@@ -1,0 +1,27 @@
+# Raw data GEO
+raw/
+
+# Trained models
+models/
+
+# Single-cell objects
+*.h5ad
+*.loom
+
+# R objects
+*.rds
+*.RData
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
