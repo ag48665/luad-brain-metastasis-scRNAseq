@@ -7,6 +7,32 @@ This repository presents a comprehensive single-cell RNA sequencing (scRNA-seq) 
 Using publicly available datasets, this study explores how immune-cell populations and exhaustion-associated transcriptional programs evolve during disease progression. Particular emphasis is placed on T-cell dysfunction, immune escape mechanisms, and macrophage remodeling within metastatic lesions.
 
 ---
+## Main Findings
+
+### 1. Immune-cell composition during LUAD progression
+
+![Cellular composition](GSE131907/figures/figure1_cellular_composition.png)
+
+Progressive remodeling of the immune microenvironment across normal lung tissue, primary tumors, and brain metastases.
+
+---
+
+### 2. Progressive T-cell exhaustion
+
+![Exhaustion score](GSE131907/figures/figure7_exhaustion_score.png)
+
+Exhaustion-associated transcriptional programs increase during disease progression and reach their highest levels in brain metastases.
+
+---
+
+### 3. Integrated model of immune remodeling
+
+![Immune remodeling model](GSE131907/figures/figure10_integrated_immune_remodeling.png)
+
+Summary model illustrating coordinated T-cell exhaustion, macrophage remodeling, and immune escape during metastatic progression.
+
+---
+
 
 ## Research Question
 
@@ -147,6 +173,15 @@ Independent NSCLC dataset used to validate exhaustion-associated transcriptional
 11. Independent cohort validation
 12. Statistical evaluation
 13. Biological interpretation
+
+---
+## Independent Validation
+
+### Validation cohort (GSE99254)
+
+![Validation](GSE99254/figures/figure11_validation_exhaustion_markers_GSE99254.png)
+
+Independent validation confirms the reproducibility of exhaustion-associated transcriptional programs identified in the discovery cohort.
 
 ---
 
